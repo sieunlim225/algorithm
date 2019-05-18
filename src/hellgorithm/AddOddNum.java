@@ -1,5 +1,7 @@
 package hellgorithm;
 
+import java.util.Collections;
+
 public class AddOddNum {
 
 	//소수의 합 https://programmers.co.kr/learn/courses/30/lessons/14406
@@ -18,7 +20,7 @@ public class AddOddNum {
 				sum += i;
 			}
 		}
-		
+	
 		System.out.println(sum);
 		
 	}
